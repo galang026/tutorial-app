@@ -2,4 +2,4 @@ Resolusi
 1. Belajar react
 2. Belajar Laravel
 3. Belajar CI 3
-4. Belajar Android
+4. Belajar CI 4
