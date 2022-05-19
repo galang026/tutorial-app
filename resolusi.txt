@@ -1,0 +1,3 @@
+Resolusi
+1. Belajar react
+2. Belajar Laravel
